@@ -36,6 +36,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
 
 ## Server Registries
+* [Automaton Oracle](https://automaton-oracle.xyz) - Sovereign x402 crypto intelligence oracle. 9 paid endpoints on Base mainnet: prices, signals, DeFi, whale scanner, full intelligence synthesis. Self-replicating.
 
 Registries where you can list and discover MCP servers, with notes on monetization support.
 
