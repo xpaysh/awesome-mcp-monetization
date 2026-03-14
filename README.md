@@ -28,6 +28,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [PaidMCP](https://github.com/paidmcp/paidmcp) - Lightning Network payments for MCP servers via Nostr Wallet Connect (NWC). Enables Bitcoin micropayments per tool call.
 - [x402-mcp](https://github.com/AbanteAI/x402-mcp) - Three-line integration for monetizing MCP servers using the Vercel AI SDK and x402.
 - [Coinbase Payments MCP](https://github.com/coinbase/coinbase-payments-mcp) - Full MCP server for cryptocurrency payments with companion wallet functionality.
+- [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs with MCP stdio proxy. Sits between AI agents and paid MCP servers, auto-paying HTTP 402 responses with USDC. `npx x402-proxy mcp <url>`.
 
 ## Platforms and Services
 
