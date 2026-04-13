@@ -34,6 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [agentsvc.io](https://agentsvc.io) - Live production example of MCP monetization via x402. 20 utility tools (screenshots, OCR, PDF, web scraping, weather, forex, crypto/stock prices, geocoding, translation, and more) at $0.001–$0.008 USDC per call on Base. MCP server included: `agentsvc.io/mcp-server.mjs`. No API keys, atomic payments per call.
 
 ## Server Registries
 
