@@ -34,6 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native paid MCP server using HTTP 402 + USDC micropayment (<1s settlement). A production x402 example: agents pay per-call for trust receipts with zero account setup. PyPI: `twzrd-agent-intel`. Config: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 ## Server Registries
 
