@@ -10,6 +10,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [SDKs and Libraries](#sdks-and-libraries)
 - [Platforms and Services](#platforms-and-services)
 - [Server Registries](#server-registries)
+- [Live Production Deployments](#live-production-deployments)
 - [Boilerplates and Templates](#boilerplates-and-templates)
 - [Pricing Strategies](#pricing-strategies)
 - [Tutorials and Guides](#tutorials-and-guides)
@@ -43,6 +44,12 @@ Registries where you can list and discover MCP servers, with notes on monetizati
 - [Smithery](https://smithery.ai/) - Registry with 7,300+ MCP servers. Includes server hosting and a managed proxy layer.
 - [mcp.so](https://mcp.so/) - Community directory with 17,700+ servers. Focused on discovery and documentation.
 - [Glama](https://glama.ai/mcp/servers) - MCP server registry with hosted proxy capabilities and usage analytics.
+
+## Live Production Deployments
+
+Real-world MCP servers earning revenue via x402 or other payment rails. Reference implementations for production pricing and architecture.
+
+- [The Stall](https://the-stall.intuitek.ai/mcp) - 172 pay-per-call financial intelligence tools (x402 USDC, no API key). Covers equities, crypto, DeFi, macro, on-chain, and options. Sub-cent per call — e.g., `us-stock-price` at $0.018. Zero install: paste the URL into any MCP client.
 
 ## Boilerplates and Templates
 
