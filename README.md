@@ -32,6 +32,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 ## Platforms and Services
 
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
+- [GPT-5.5 x402 API Gateway](https://gpt55.558686.xyz) - Remote MCP-discovery surface and OpenAI-compatible GPT-5.5/text-tool API monetized with x402 Base USDC, with $0.0001 compact requests, long/max-output tiers, OpenAPI, and server.json metadata for agent discovery.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
 
