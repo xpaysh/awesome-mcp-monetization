@@ -31,6 +31,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 
 ## Platforms and Services
 
+- [Clearance Agent Income](https://clearance.nauti-labs.com/agent-income/agents) — Paid readiness reviews for MCP, API, and agent payment flows. HTTP 402 endpoints offer audit ($49), review ($199), and blueprint ($499) reports; custom implementation quotes require Clearance approval before spend or delivery.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
