@@ -43,6 +43,7 @@ Registries where you can list and discover MCP servers, with notes on monetizati
 - [Smithery](https://smithery.ai/) - Registry with 7,300+ MCP servers. Includes server hosting and a managed proxy layer.
 - [mcp.so](https://mcp.so/) - Community directory with 17,700+ servers. Focused on discovery and documentation.
 - [Glama](https://glama.ai/mcp/servers) - MCP server registry with hosted proxy capabilities and usage analytics.
+- [Toll402](https://toll402.com) — MCP server registry that only contains monetized MCP servers
 
 ## Boilerplates and Templates
 
