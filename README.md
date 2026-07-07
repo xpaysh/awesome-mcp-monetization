@@ -34,6 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [Vaaya](https://vaaya.ai) - MCP server that lets agents pay per-call for tools (media/video generation, research, web scraping, compute, browser automation, email) with no API keys. Rails: x402 (USDC on Base), Stripe MPP/SPT, Tempo. Also exposes x402-payable endpoints with no signup.
 
 ## Server Registries
 
