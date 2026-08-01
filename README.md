@@ -34,6 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [minia2a](https://minia2a.uk) - Marketplace for x402-payable APIs. 173 services across 86 endpoint types with free trial credits for agents. Agents discover, trial, and pay for APIs programmatically. Production since July 2026 with 34 registered agents and 302K+ requests served.
 
 ## Server Registries
 
@@ -43,6 +44,7 @@ Registries where you can list and discover MCP servers, with notes on monetizati
 - [Smithery](https://smithery.ai/) - Registry with 7,300+ MCP servers. Includes server hosting and a managed proxy layer.
 - [mcp.so](https://mcp.so/) - Community directory with 17,700+ servers. Focused on discovery and documentation.
 - [Glama](https://glama.ai/mcp/servers) - MCP server registry with hosted proxy capabilities and usage analytics.
+- [minia2a](https://minia2a.uk) - x402-enabled API marketplace with trial credits, agent discovery, and programmatic access. 173 services across 86 categories.
 
 ## Boilerplates and Templates
 
