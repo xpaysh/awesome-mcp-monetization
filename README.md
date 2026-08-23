@@ -31,9 +31,10 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 
 ## Platforms and Services
 
-- [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
-- [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
+- [DopamineDesk x402 Marketplace](https://github.com/jblaz6335/mcp-server-aidatamarketplace) - Open-source MCP adapter for pay-per-call data tools with x402 v2 USDC settlement on Base, live previews, manual signing, and optional capped local auto-pay.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
+- [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 
 ## Server Registries
 
