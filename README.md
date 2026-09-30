@@ -34,7 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
-- [FiatDock](https://fiatdock.com) - Non-custodial marketplace for monetizing MCP servers — list your MCP service free, set a per-call price, and AI agents pay you directly in USDC via x402 on Base. Each call settles buyer-wallet → seller-wallet and the 1% platform fee is an on-chain split (0% your first 30 days), never custodial. Discovery + payment via 3 MCP tools (`search_services` / `get_service` / `call_service`). Also a non-custodial USDC↔bank cash-out ramp. `npx fiatdock-mcp`.
+- [FiatDock](https://fiatdock.com) - Non-custodial marketplace for monetizing MCP servers — list your MCP service free, set a per-call price, and AI agents pay you directly in USDC via x402 on Base. Each call is one payment, buyer-wallet → seller-wallet, settled only after your server answers; the marketplace commission is currently waived and FiatDock never holds funds. Buyers find and pay through `search_services` / `get_service` / `call_service`. Also a non-custodial USDC↔bank cash-out ramp. `npx fiatdock-mcp`.
 
 ## Server Registries
 
