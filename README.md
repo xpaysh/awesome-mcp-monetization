@@ -34,6 +34,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [xpay](https://xpay.sh) - No-code MCP monetization platform. Register your server, set per-tool prices, and get a proxy URL in under 2 minutes. Supports fiat and crypto payments.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
+- [RevRule by Payload](https://payloadhq.github.io/revrule-console/) - Programmable revenue rules engine: turns agreements and x402/MCP revenue events into auditable economic entitlements (splits, recoupment, waterfalls, attribution). Answers who is owed what after the payment. $99 one-time, non-custodial.
 
 ## Server Registries
 
