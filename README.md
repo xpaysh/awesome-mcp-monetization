@@ -49,6 +49,7 @@ Registries where you can list and discover MCP servers, with notes on monetizati
 - [paid-mcp-starter](https://github.com/xpaysh/paid-mcp-starter) - Ready-to-use templates showing three monetization approaches: no-code via xpay, x402 protocol, and Stripe billing. Includes a sample MCP server.
 - [x402 Example Servers](https://github.com/coinbase/x402/tree/main/examples) - Official x402 example implementations from Coinbase showing payment-gated HTTP endpoints.
 - [MCPay Examples](https://github.com/peterdev123/mcpay/tree/main/examples) - Example configurations for MCPay payment gateway integration.
+- [x402 Money Reactor](https://github.com/makar52nn-crypto/x402-money-reactor) - Live open-source example of a monetized MCP server: 12 paid endpoints (token verdicts, honeypot scoring, AI dossiers, data utilities) on Cloudflare Workers, $0.001-$0.05 per call in USDC on Base via x402.
 
 ## Pricing Strategies
 
