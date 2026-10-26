@@ -23,6 +23,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 
 ## SDKs and Libraries
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local buyer-side x402 payment runtime with a stdio MCP interface for offer inspection, bounded preparation and receipt recovery; Apple Silicon macOS and Node 24.
 - [MCPay](https://github.com/peterdev123/mcpay) - Payment gateway for MCP servers using the x402 protocol. Wraps existing servers with per-tool pricing.
 - [PayMCP](https://github.com/paymcp/paymcp) - Provider-agnostic payment middleware supporting x402, Stripe, and wallet-based payments. Available in TypeScript and Python.
 - [PaidMCP](https://github.com/paidmcp/paidmcp) - Lightning Network payments for MCP servers via Nostr Wallet Connect (NWC). Enables Bitcoin micropayments per tool call.
