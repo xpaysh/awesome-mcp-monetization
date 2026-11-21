@@ -67,6 +67,7 @@ Common approaches to pricing MCP server tools:
 - [Coinbase x402 MCP Server Tutorial](https://docs.cdp.coinbase.com/x402/docs/x402-mcp-server) - Official guide to building an MCP server with x402 payment gating.
 - [Vercel x402-mcp Integration](https://vercel.com/blog/x402-mcp) - Blog post on adding payment gates to MCP servers with 3 lines of code.
 - [PaidMCP Lightning Tutorial](https://github.com/paidmcp/paidmcp#getting-started) - Getting started with Bitcoin Lightning payments for MCP servers.
+- [xmcp Monetization Guide](https://xmcp.dev/docs/guides/monetization) — Guide to adding subscriptions and usage-based payments to MCP tools with xmcp integrations.
 - [xpay Monetize in 2 Minutes](https://xpay.sh/monetize-mcp-server) - No-code guide to monetizing any existing MCP server.
 - [Building a Paid MCP Server from Scratch](https://github.com/xpaysh/paid-mcp-starter/blob/main/docs/pricing-guide.md) - Comprehensive guide to pricing strategies and implementation patterns.
 
