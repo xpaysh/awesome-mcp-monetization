@@ -35,6 +35,7 @@ MCP is rapidly becoming the standard for connecting AI agents to external tools.
 - [Nevermined](https://nevermined.io/) - AI-native billing infrastructure supporting usage-based, outcome-based, and value-based pricing models for AI services.
 - [Moesif](https://www.moesif.com/) - API analytics and monetization platform with usage-based billing capabilities adaptable to MCP server metering.
 
+- [Switch402 MCP](https://github.com/AlbertPa00/switch402/tree/main/packages/mcp) - Live remote MCP server (switch402.fly.dev/mcp) monetizing utility tools per-call via x402 on Base: sha256, encode/decode, JSON validate/pretty, markdown clean, uuid at $0.001-$0.0115 USDC, no account or API key.
 ## Server Registries
 
 Registries where you can list and discover MCP servers, with notes on monetization support.
